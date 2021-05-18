@@ -32,6 +32,12 @@ git add --all
 git commit -m "commit message that is descriptive but concise"
 ```
 
+### Push changes to a REMOTE repository
+
+```
+git push origin master
+```
+
 ## Members
 
 * ralampay

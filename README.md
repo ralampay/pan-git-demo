@@ -57,6 +57,6 @@ git pull origin master
 * ralampay (Raphael Alampay)
 * aevalerio
 * hjimenez-pm
-* jdatow
-* jessicavergara
+* jdatow - John Robert Dato
+* jessicavergara - Jessica Vergara
 * kylecabegin

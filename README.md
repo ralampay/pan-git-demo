@@ -42,7 +42,7 @@ git push origin master
 
 * ralampay
 * aevalerio
-* hjimenez-pm
+* hjimenez-pm (harold jimenez)
 * jdatow
 * jessicavergara
 * kylecabegin

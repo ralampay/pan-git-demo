@@ -44,5 +44,5 @@ git push origin master
 * aevalerio
 * hjimenez-pm
 * jdatow
-* jessicavergara
+* jessicavergara - Jessica Vergara
 * kylecabegin

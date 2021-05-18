@@ -54,7 +54,7 @@ git pull origin master
 
 ## Members
 
-* ralampay (Raphael Alampay)
+* ralampay - Raphael Alampay
 * aevalerio
 * hjimenez-pm
 * jdatow - John Robert Dato

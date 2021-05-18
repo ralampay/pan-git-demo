@@ -26,6 +26,12 @@ git status
 git add --all
 ```
 
+### Commit to our LOCAL repository
+
+```
+git commit -m "commit message that is descriptive but concise"
+```
+
 ## Members
 
 * ralampay

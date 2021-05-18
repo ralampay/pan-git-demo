@@ -40,7 +40,7 @@ git push origin master
 
 ## Members
 
-* ralampay
+* ralampay (Raphael Alampay)
 * aevalerio
 * hjimenez-pm
 * jdatow

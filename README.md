@@ -43,6 +43,6 @@ git push origin master
 * ralampay
 * aevalerio
 * hjimenez-pm
-* jdatow
+* jdatow - John Robert Dato
 * jessicavergara
 * kylecabegin

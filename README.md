@@ -41,7 +41,7 @@ git push origin master
 ## Members
 
 * ralampay
-* aevalerio
+* aevalerio ariellevalerio
 * hjimenez-pm
 * jdatow - John Robert Dato
 * jessicavergara

@@ -55,7 +55,7 @@ git pull origin master
 ## Members
 
 * ralampay - Raphael Alampay
-* aevalerio - ariellevalerio
+* aevalerio ariellevalerio
 * hjimenez-pm - Harold Jimenez
 * jdatow - John Robert Dato
 * jessicavergara - Jessica Vergara

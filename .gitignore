@@ -1,4 +1,4 @@
 *.yaml
 *.yml
-
+.DS_Store
 tmp/

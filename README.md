@@ -38,6 +38,20 @@ git commit -m "commit message that is descriptive but concise"
 git push origin master
 ```
 
+### Pull changes from a REMOTE repository
+
+```
+git pull origin master
+```
+
+#### For conflict resolution (merging)
+
+1. Check the files as identified as CONFLICT
+2. (optional) Create an issue
+3. Resolve the changes by editting the files
+4. Commit changes to remote repository (including Resolves #issueNo in commit message optionally close an issue)
+5. Push to remote
+
 ## Members
 
 * ralampay (Raphael Alampay)

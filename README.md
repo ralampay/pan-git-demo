@@ -53,16 +53,9 @@ git pull origin master
 5. Push to remote
 
 ## Members
-
-<<<<<<< HEAD
-* ralampay
-* aevalerio ariellevalerio
-* hjimenez-pm
-=======
 * ralampay - Raphael Alampay
-* aevalerio
+* aevalerio ariellevalerio
 * hjimenez-pm (harold jimenez)ß
->>>>>>> 544a3d83430dfc26a21b7c485fef58d0f9383669
 * jdatow - John Robert Dato
 * jessicavergara - Jessica Vergara
 * kylecabegin
